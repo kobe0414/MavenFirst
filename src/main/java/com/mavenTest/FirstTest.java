@@ -10,6 +10,7 @@ public class FirstTest {
 		JSONObject jsonObject = new JSONObject();
 		jsonObject.put("key1", "value1");
 		System.out.println(jsonObject.toString());
+		System.out.println("git test");
 	}
 
 }
