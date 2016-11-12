@@ -11,6 +11,7 @@ public class FirstTest {
 		jsonObject.put("key1", "value1");
 		System.out.println(jsonObject.toString());
 		System.out.println("git test");
+		System.out.println("merge force");
 	}
 
 }
